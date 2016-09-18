@@ -1,0 +1,108 @@
+@CHARSET "EUC-KR";
+body {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	color: #333333;
+	font-size: 14px;
+	background: #fff;
+	text-align: center;
+	border: 1px solid black;
+	min-width: 720px;
+}
+section {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+ul {
+	list-style: none;
+}
+ul li {
+	float: left;
+	margin: 0 10px;
+}
+
+.container {
+	border: 1px solid black;
+}
+.row {
+	border: 1px solid black;
+}
+.col {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+
+.logo {
+	padding: 5px 5px;
+}
+.login {
+	padding: 5px 5px;
+}
+.search {
+	padding: 5px 5px;
+}
+.menu {
+	padding: 5px 5px;
+
+}
+.newAlbum {
+	padding: 5px 5px;
+
+}
+.chart {
+	padding: 5px 5px;
+
+}
+.ad1 {
+	padding: 10px 0;
+}
+.ad2 {
+	padding: 10px 0;
+}
+.video {
+	padding: 5px 5px;
+
+}
+.ad3 {
+	padding: 5px 5px;
+}
+.contents1 {
+	padding: 5px 5px;
+
+}
+.contents2 {
+	padding: 5px 5px;
+
+}
+.contents3 {
+	padding: 5px 5px;
+
+}
+.company {
+	padding: 5px 5px;
+}
+
+#header {
+
+}
+#navbar {
+
+}
+#section1 {
+
+}
+#section2 {
+
+}
+#section3 {
+
+}
+#section4 {
+
+}
+#footer {
+
+}
