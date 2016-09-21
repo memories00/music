@@ -18,15 +18,11 @@
 					</div>
 					<div class="col">
 						<div class="row">
-							<div class="col">
-								<div class="row">
-									<div class="login">
-										<img src="/music/image/login.jpg">
-									</div>
-									<div class="search">
-									 	<img src="/music/image/search.jpg">
-									</div>
-								</div>
+							<div class="login">
+								<img src="/music/image/login.jpg">
+							</div>
+							<div class="search">
+							 	<img src="/music/image/search.jpg">
 							</div>
 						</div>
 					</div>
