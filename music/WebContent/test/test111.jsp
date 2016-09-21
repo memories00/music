@@ -191,16 +191,19 @@
 					<div class="col">
 						<div class="contents1">
 							<img src="/music/image/contents.jpg">
+							<p>力格</p>
 						</div>
 					</div>
 					<div class="col">
 						<div class="contents2">
 							<img src="/music/image/contents.jpg">
+							<p>力格</p>
 						</div>
 					</div>
 					<div class="col">
 						<div class="contents3">
 							<img src="/music/image/contents.jpg">
+							<p>力格</p>
 						</div>
 					</div>
 				</div>
