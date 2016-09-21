@@ -36,53 +36,53 @@ ul li {
 
 
 .logo {
-	padding: 5px 5px;
+	margin: 10px 10px;
 }
 .login {
-	padding: 5px 5px;
+	margin: 10px 10px;
 }
 .search {
-	padding: 5px 5px;
+	margin: 10px 10px;
 }
 .menu {
-	padding: 5px 5px;
+	margin: 10px 10px;
 
 }
 .newAlbum {
-	padding: 5px 5px;
+	margin: 10px 10px;
 
 }
 .chart {
-	padding: 5px 5px;
+	margin: 10px 10px;
 
 }
 .ad1 {
-	padding: 10px 0;
+	margin: 10px 0;
 }
 .ad2 {
-	padding: 10px 0;
+	margin: 10px 0;
 }
 .video {
-	padding: 5px 5px;
+	margin: 10px 10px;
 
 }
 .ad3 {
-	padding: 5px 5px;
+	padding: 10px 10px;
 }
 .contents1 {
-	padding: 5px 5px;
+	padding: 10px 10px;
 
 }
 .contents2 {
-	padding: 5px 5px;
+	padding: 10px 10px;
 
 }
 .contents3 {
-	padding: 5px 5px;
+	padding: 10px 10px;
 
 }
 .company {
-	padding: 5px 5px;
+	padding: 10px 10px;
 }
 
 #header {
