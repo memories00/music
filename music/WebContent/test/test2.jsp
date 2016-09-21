@@ -52,56 +52,92 @@
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<div class="Album">
-							<img src="/music/image/album.jpg">
-							<p>앨범 이름</p>
-							<p>가수 제목</p>
+						<div class="album">
+							<div class="row">
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+							</div>						
 						</div>
-					</div>
-					<div class="col">
-						<div class="Album">
-							<img src="/music/image/album.jpg">
-							<p>앨범 이름</p>
-							<p>가수 제목</p>
+							<div class="row">
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+								<div class="col">
+									<div class="Album">
+										<img src="/music/image/album.jpg">
+										<p>앨범 이름</p>
+										<p>가수 제목</p>
+									</div>
+								</div>
+							</div>
 						</div>
+								<div class="col">
+									<div class="chart">
+										<img src="/music/image/chart.jpg">
+									</div>
+								</div>
+						</div>	
 					</div>
-					<div class="col">
-						<div class="Album">
-							<img src="/music/image/album.jpg">
-							<p>앨범 이름</p>
-							<p>가수 제목</p>
+				</section>
+				
+				<section id="section2">
+					<div class="container">
+						<div class="row">
+							<div class="col">
+								<div class="ad1">
+									<img src="/music/image/adver1.jpg"/>
+								</div>
+							</div>
+							<div class="col">
+								<div class="ad2">
+									<img src="/music/image/adver1.jpg"/>
+								</div>
+							</div>
 						</div>
-					</div>
-					<div class="col">
-						<div class="Album">
-							<img src="/music/image/album.jpg">
-							<p>앨범 이름</p>
-							<p>가수 제목</p>
-						</div>
-					</div>
-					<div class="col">
-						<div class="chart">
-							<img src="/music/image/chart.jpg">
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		
-		<section id="section2">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<div class="ad1">
-							<img src="/music/image/adver1.jpg"/>
-						</div>
-					</div>
-					<div class="col">
-						<div class="ad2">
-							<img src="/music/image/adver2.jpg"/>
-						</div>
-					</div>
-				</div>
 			</div>
 		</section>
 		
@@ -109,15 +145,38 @@
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<div class="video">
-							<img src="/music/image/video.jpg"/>
+					 	<div class="video">
+							<div class="row">
+								<div class="col">
+									<div class="video">
+										<img src="/music/image/video.jpg"/>
+									</div>
+								</div>
+								<div class="col">
+									<div class="video">
+										<img src="/music/image/video.jpg"/>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col">
+									<div class="video">
+										<img src="/music/image/video.jpg"/>
+									</div>
+								</div>
+								<div class="col">
+									<div class="video">
+										<img src="/music/image/video.jpg"/>
+									</div>
+								</div>
+							</div>	
+						</div>		
+						<div class="col">
+							<div class="ad3">
+								<img src="/music/image/adver3.jpg"/>
+							</div>
 						</div>
-					</div>
-					<div class="col">
-						<div class="ad3">
-							<img src="/music/image/adver3.jpg"/>
-						</div>
-					</div>
+					</div>	
 				</div>
 			</div>
 		</section>
