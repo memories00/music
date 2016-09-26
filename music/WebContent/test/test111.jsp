@@ -8,6 +8,7 @@
 	</head>
 	
 	<body>
+	<div class="wrap">
 		<header id="header">
 			<div class="container">
 				<div class="row">
@@ -221,5 +222,6 @@
 				</div>
 			</div>
 		</footer>
+	</div>
 	</body>
 </html>	

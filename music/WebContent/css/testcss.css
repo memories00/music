@@ -6,21 +6,30 @@ body {
 	color: #333333;
 	font-size: 14px;
 	background: #fff;
-	text-align: center;
 	border: 1px solid black;
 	min-width: 960px;
 }
+
+.wrap {
+	margin: auto;
+	width: 990px;
+	border: 1px solid black;
+}
+
+nav {
+	margin-bottom: 10px;
+	border: 1px solid black;
+}
+
 section {
-	padding-left: 5px;
-	padding-right: 5px;
 }
 
 ul {
 	list-style: none;
 }
-ul li {
+.menu ul li {
 	float: left;
-	margin: 0 10px;
+	margin: 0 15px;
 }
 
 .container {
@@ -31,6 +40,7 @@ ul li {
 }
 .col {
 	display: inline-block;
+	magin: 0px 0px;
 }
 
 
@@ -45,7 +55,6 @@ ul li {
 }
 .menu {
 	margin: 10px 10px;
-
 }
 .newAlbum {
 	margin: 10px 10px;
