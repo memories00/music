@@ -118,6 +118,7 @@
 								<div class="col">
 									<div class="chart">
 										<img src="/music/image/chart.jpg">
+										<p>堡绊</p>
 									</div>
 								</div>
 						</div>	
@@ -138,27 +139,26 @@
 								</div>
 							</div>
 						</div>
-			</div>
-		</section>
-		
-		<section id="section3">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-					 	<div class="video">
-							<div class="row">
-								<div class="col">
-									<div class="video">
+					</div>
+			</section>
+			<section id="section3">
+				<div class="container">
+					<div class="row">
+						<div class="col">
+					 		<div class="video">
+								<div class="row">
+									<div class="col">
+										<div class="video">
 										<img src="/music/image/video.jpg"/>
 										<p>力格</p>
+										</div>
 									</div>
-								</div>
-								<div class="col">
-									<div class="video">
+									<div class="col">
+										<div class="video">
 										<img src="/music/image/video.jpg"/>
 									    <p>力格</p>
+										</div>
 									</div>
-								</div>
 							</div>
 							<div class="row">
 								<div class="col">
@@ -176,11 +176,12 @@
 							</div>	
 						</div>
 					</div>			
-						<div class="col">
-							<div class="ad3">
-									<img src="/music/image/adver3.jpg"/>
-							</div>
-						</div>		 	
+					<div class="col">
+						<div class="ad3">
+							<img src="/music/image/adver3.jpg"/>
+							<p>堡绊</p>
+						</div>
+					</div>		 	
 				</div>
 			</div>
 		</section>
@@ -208,7 +209,6 @@
 				</div>
 			</div>
 		</section>
-		
 		<footer id="footer">
 			<div class="container">
 				<div class="row">
