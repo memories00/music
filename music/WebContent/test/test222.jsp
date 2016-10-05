@@ -76,7 +76,7 @@
 								<li>재생시간</li>
 							</ul>
 							<form action="">
-								<input type="button" />
+								<input type="button" name="like" value="좋아요" />
 							</form>
 						</div>
 					</div>
@@ -90,7 +90,12 @@
 					<div class="col">
 						<div class="albumListButton">
 							<form action="">
-								<input type="button" />
+							<input type="button" name="choiceAll" value="전체선택" />
+								<input type="button" name="play" value="듣기" />
+								<input type="button" name="add" value="재생목록추가" />
+								<input type="button" name="addList" value="담기" />
+								<input type="button" name="dawnload" value="다운로드" />
+								<input type="button" name="allPlay" value="전체듣기" />
 							</form>
 						</div>
 					</div>
@@ -100,12 +105,54 @@
 						<div class="albumList">
 							<div class="row">
 								<div class="col">
-									<div class="track">
-									</div>
-									<div class="col">
-										<div class="trackButton">
-										</div>
-									</div>
+									노래 제목
+								</div>
+								<div class="col">
+									<button type="button" id="play" class="">듣기</button>
+									<button>다운</button>
+									<button>담기</button>
+									<button>가사</button>
+									<button>뮤비</button>
+									<button>좋아요</button>		
+								</div>
+							</div>
+							<div class="row">
+								<div class="col">
+									노래 제목
+								</div>
+								<div class="col">
+									<button type="button" id="play" class="">듣기</button>
+									<button>다운</button>
+									<button>담기</button>
+									<button>가사</button>
+									<button>뮤비</button>
+									<button>좋아요</button>		
+								</div>
+							</div>
+							<div class="row">
+								<div class="col">
+									노래 제목
+								</div>
+								<div class="col">
+									<button type="button" id="play" class="">듣기</button>
+									<button>다운</button>
+									<button>담기</button>
+									<button>가사</button>
+									<button>뮤비</button>
+									<button>좋아요</button>		
+								</div>
+							</div>
+							<div class="row">
+								<div class="col">
+									노래 제목
+								</div>
+								<div class="col">
+									<button type="button" id="play" class="">듣기</button>
+									<button>다운</button>
+									<button>담기</button>
+									<button>가사</button>
+									<button>뮤비</button>
+									<button>좋아요</button>		
 								</div>
 							</div>
 						<!-- row 늘리기 -->
@@ -146,15 +193,18 @@
 				</div>
 				<div class="row">
 					<div class="col">
-						<div class="reviewWrite">
+						<div class="commentWrite">
 							<form action="">
 								<div class="row">
 									<div class="col">
-										<div class="reviewInput">
+										<div class="commentInput">
+											<textarea id="commentText" class="comment">
+											</textarea>
 										</div>
 									</div>
 									<div class="col">
-										<div class="reviewInputButton">
+										<div class="commentInputButton">
+											<button type="button" id="submit" class="commentSubmit">확인</button>
 										</div>
 									</div>
 								</div>
