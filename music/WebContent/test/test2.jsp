@@ -150,11 +150,13 @@
 								<div class="col">
 									<div class="video">
 										<img src="/music/image/video.jpg"/>
+										<p>力格</p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="video">
 										<img src="/music/image/video.jpg"/>
+									    <p>力格</p>
 									</div>
 								</div>
 							</div>
@@ -162,41 +164,45 @@
 								<div class="col">
 									<div class="video">
 										<img src="/music/image/video.jpg"/>
+									 	<p>力格</p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="video">
 										<img src="/music/image/video.jpg"/>
+										<p>力格</p>
 									</div>
 								</div>
 							</div>	
-						</div>		
+						</div>
+					</div>			
 						<div class="col">
 							<div class="ad3">
-								<img src="/music/image/adver3.jpg"/>
+									<img src="/music/image/adver3.jpg"/>
 							</div>
-						</div>
-					</div>	
+						</div>		 	
 				</div>
 			</div>
 		</section>
-		
 		<section id="section4">
 			<div class="container">
 				<div class="row">
 					<div class="col">
 						<div class="contents1">
-							<img src="/music/image/contents1.jpg">
+							<img src="/music/image/contents.jpg">
+							<p>力格</p>
 						</div>
 					</div>
 					<div class="col">
 						<div class="contents2">
-							<img src="/music/image/contents2.jpg">
+							<img src="/music/image/contents.jpg">
+							<p>力格</p>
 						</div>
 					</div>
 					<div class="col">
 						<div class="contents3">
-							<img src="/music/image/contents3.jpg">
+							<img src="/music/image/contents.jpg">
+							<p>力格</p>
 						</div>
 					</div>
 				</div>
