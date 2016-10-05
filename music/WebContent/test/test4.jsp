@@ -57,6 +57,7 @@
 						<div class="col">
 							<div class="name">
 								<div class="col">
+								<!-- ul 스타일로 고치기 -->
 									<button type="button"> 메인 </button>
 									<button type="button"> 앨범 </button>
 									<button type="button"> 곡 </button>
