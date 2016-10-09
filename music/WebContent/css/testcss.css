@@ -27,7 +27,13 @@ section {
 ul {
 	list-style: none;
 }
+
 .menu ul li {
+	float: left;
+	margin: 0 15px;
+}
+
+.artistMenu ul li {
 	float: left;
 	margin: 0 15px;
 }
