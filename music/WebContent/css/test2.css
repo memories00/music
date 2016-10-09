@@ -59,13 +59,17 @@ ul {
 
 }
 
-section{
+#section{
 	margin: 10px 10px;
 }	
-section2{
+#section2{
 	margin: 10px 10px;
 }
-select2{
-	margin: 10px 10px;
+.select{
+	margin: 10px 0px;
+}
+
+.select2{
+	margin: 10px 0px;
 }
 

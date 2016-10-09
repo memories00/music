@@ -56,18 +56,16 @@
 					<div class="row">
 						<div class="col">
 							<div class="name">
-								<div class="col">
-								<!-- ul 스타일로 고치기 -->
-									<button type="button"> 메인 </button>
-									<button type="button"> 앨범 </button>
-									<button type="button"> 곡 </button>
-									<button type="button"> 뮤비 </button>
-									<button type="button"> 컨텐츠 </button>
-								</div>
+								<ul>
+									<li>메인</li>
+									<li>곡</li>
+									<li>뮤비</li>
+									<li>컨텐츠</li>
+								</ul>
 							</div>
 						</div>
-					</div>			
-				</div>
+					</div>
+				</div>			
 			</section>
 			<section id="section2">
 				<div class="container">	
@@ -139,25 +137,25 @@
 				<div class="container">
 					<div class="row">
 						<div class="col">
-							<div class="muvie">
+							<div class="music_video">
 								<img src="/music/image/muvie.jpg">
 								<p>제목</p>
 							</div>
 						</div>
 						<div class="col">
-							<div class="muvie">
+							<div class="music_video">
 								<img src="/music/image/muvie.jpg">
 								<p>제목</p>
 							</div>						
 						</div>
 						<div class="col">
-							<div class="muvie">
+							<div class="music_video">
 								<img src="/music/image/muvie.jpg">
 								<p>제목</p>
 							</div>
 						</div>	
 						<div class="col">
-							<div class="muvie">
+							<div class="music_video">
 								<img src="/music/image/muvie.jpg">
 								<p>제목</p>
 							</div>
@@ -188,13 +186,24 @@
 						</div>
 					</div>	
 				</div>
-			</section>
+			</section>	
 			<section id="section6">
 				<div class="container">
-					<form action="">
-						<textarea name="comments" cols="50" rows="2"> 댓글을 입력해주세요.</textarea>
-					</form>
-				</div>
+					<div class="row">
+						<div class="col">
+							<div class="comments">
+								<form action="">
+									<textarea name="comments" cols="50" rows="2"> 댓글을 입력해주세요.</textarea>
+								</form>
+							</div>
+						</div>		
+						<div class="col">
+							<div class="commentsbutton">
+								<button type="button">확인</button>
+							</div>
+						</div>			
+					</div>
+				</div>					
 			</section>
 			<footer id="footer">
 				<div class="container">

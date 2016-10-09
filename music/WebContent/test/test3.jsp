@@ -127,12 +127,20 @@
 					</div>	
 				</div>	
 		</section>
-			<section id="section3">
-				<div class="container">
-					<form action="">
-						<textarea name="comments" cols="50" rows="2"> 리뷰를 입력해주세요.</textarea>
-					</form>
-				</div>
+		<section id="section3">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<form action="">
+							<textarea name="comments" cols="50" rows="2"> 리뷰를 입력해주세요.</textarea>
+						</form>
+					</div>
+					<div class="col">
+						<div class="commentInputButton">
+							<button type="button" id="submit" class="commentSubmit">확인</button>
+						</div>
+					</div>
+				</div>			
 			</section>
 			<footer id="footer">
 				<div class="container">
