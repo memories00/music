@@ -136,23 +136,24 @@
 						</form>
 					</div>
 					<div class="col">
-						<div class="commentInputButton">
+						<div class="commentInputButton2">
 							<button type="button" id="submit" class="commentSubmit">»Æ¿Œ</button>
 						</div>
 					</div>
-				</div>			
-			</section>
-			<footer id="footer">
-				<div class="container">
-					<div class="row">
-						<div class="col">
-							<div class="company">
-						 	footer-company
-						 	</div>
-						 </div>
+				</div>
+			</div>					
+		</section>
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="company">
+							footer-company
+						</div>
 					</div>
-				</div>	
-			</footer>		 	
+				</div>
+			</div>
+		</footer>		 	
 		</div>								
 	</body>
 </html>

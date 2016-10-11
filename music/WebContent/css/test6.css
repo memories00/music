@@ -15,68 +15,39 @@ body {
 	width: 990px;
 	border: 1px solid black;
 }
-
-nav {
-	margin-bottom: 10px;
-	border: 0px solid black;
-}
-
 ul {
 	list-style: none;
-}	
-.logo {
-	margin: 10px 10px;
 }
-.login {
-	margin: 10px 10px;
-}
-.search {
-	margin: 10px 10px;
-}
-.menu ul li {
-	float: left;
+.play{
 	margin: 10px; 10px;
-}	
+}
 
-.menu2 ul li {
-	float: left;
-	margin: 10px; 10px;
-} 	
-
-.artist {
-	margin: 10px; 10px;
-}
-.picture {
-	margin: 0px; 10px;
-}
-.col {
-	display: inline-block;
-}	
-.list{
-	margin: 10px; 10px;
-}
-.list2{
+.play2 ul li{
+	display: inline;
 	margin: 10px; 10px;
 }
 .album{
+	text-indent: 10px;
 	margin: 10px; 10px;
 }
-.music_video{
+.album1{
 	margin: 10px; 10px;
 }
-.words{
+.album_art{
 	margin: 10px; 10px;
 }
-.link{
-	float: left;
+.order{
 	margin: 10px; 10px;
 }
-.contents{
+.like{
 	margin: 10px; 10px;
 }
-	
-#section1{
+.select{
+	margin: 10px; 10px;
 }
-
-#section2{
+.select2{
+	margin: 10px; 10px;
+}
+.col{
+	display: inline-block;
 }
