@@ -38,6 +38,17 @@ ul {
 	margin: 0 15px;
 }
 
+.chartMenu ul li {
+	float: left;
+	margin: 0 15px;
+}
+
+.searchMenu ul li {
+	float: left;
+	margin: 0 15px;
+}
+
+
 .container {
 	
 }
@@ -64,14 +75,12 @@ ul {
 }
 .newAlbum {
 	margin: 10px 10px;
-
 }
 .album {
 	margin: 10px 10px;
 }
 .chart {
 	margin: 10px 10px;
-
 }
 .ad1 {
 	margin: 10px 10px;
