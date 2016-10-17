@@ -36,6 +36,9 @@
 				</div>
 				<div class="col">
 					Á¤º¸
+					 <form action="">
+					 	<input type="text"> - <input type="text"> - <input type="text">
+					 </form>1010101-19191-1919
 				</div>
 			</div>
 		</div>

@@ -1,0 +1,134 @@
+@CHARSET "EUC-KR";
+body {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	color: #333333;
+	font-size: 14px;
+	background: #fff;
+	border: 1px solid black;
+	min-width: 960px;
+}
+
+.wrap {
+	margin: auto;
+	width: 990px;
+	border: 1px solid black;
+}
+
+nav {
+	margin-bottom: 10px;
+	border: 1px solid black;
+}
+
+section {
+}
+
+ul {
+	list-style: none;
+}
+
+.menu ul li {
+	float: left;
+	margin: 0 15px;
+}
+
+.artistMenu ul li {
+	float: left;
+	margin: 0 15px;
+}
+
+.chartMenu ul li {
+	float: left;
+	margin: 0 15px;
+}
+
+.searchMenu ul li {
+	float: left;
+	margin: 0 15px;
+}
+
+
+.container {
+	
+}
+.row {
+	
+}
+.col {
+	display: inline-block;
+	magin: 0px 0px;
+}
+
+
+.logo {
+	margin: 10px 10px;
+}
+.login {
+	margin: 10px 10px;
+}
+.search {
+	margin: 10px 10px;
+}
+.menu {
+	margin: 10px 10px;
+}
+.newAlbum {
+	margin: 10px 10px;
+}
+.album {
+	margin: 10px 10px;
+}
+.chart {
+	margin: 10px 10px;
+}
+.ad1 {
+	margin: 10px 10px;
+}
+.ad2 {
+	margin: 10px 10px;
+}
+.video {
+	margin: 10px 10px;
+
+}
+.ad3 {
+	padding: 10px 10px;
+}
+.contents1 {
+	padding: 10px 10px;
+
+}
+.contents2 {
+	padding: 10px 10px;
+
+}
+.contents3 {
+	padding: 10px 10px;
+
+}
+.company {
+	padding: 10px 10px;
+}
+
+#header {
+
+}
+#navbar {
+
+}
+#section1 {
+
+}
+#section2 {
+
+}
+#section3 {
+
+}
+#section4 {
+
+}
+#footer {
+
+}
