@@ -20,8 +20,11 @@
 					<div class="col">
 						<div class="search">
 							<form action="">
-								<input type="search" />
-								<input type="submit" name="search" value="search"/>
+								<fieldset>
+									<legend>search</legend>
+									<input type="search" />
+									<input type="image" class=submit src="">
+								</fieldset>
 							</form>
 						</div>
 					</div>	
