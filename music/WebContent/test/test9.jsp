@@ -108,11 +108,11 @@
 								<div class="col">
 									<form action="">
 										<p>전화번호:
-											<input type="text"	name="number" size="10" maxlength="15" />
+											<input type="text"	name="number" size="10" maxlength="5" />
 												-
-											<input type="text"	name="number" size="10" maxlength="15" />
+											<input type="text"	name="number" size="10" maxlength="5" />
 												-
-											<input type="text"	name="number" size="10" maxlength="15" />	
+											<input type="text"	name="number" size="10" maxlength="5" />	
 										</p>
 									</form>
 								</div>

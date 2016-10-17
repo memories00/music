@@ -4,6 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Music main</title>
+
 </head>
 <body>
 	<div class="wrap">
@@ -16,13 +17,13 @@
 						</div>
 					</div>
 					<div class="col">
-						<div class="row">
-							<div class="login">
-								<img src="/music/image/login.jpg">
-							</div>
-							<div class="search">
-							 	<img src="/music/image/search.jpg">
-							</div>
+						<div class="search">
+							<img src="/music/image/search.jpg">
+						</div>
+					</div>	
+					<div class="col">
+						<div class="login">
+							 <img src="/music/image/login.jpg">
 						</div>
 					</div>
 				</div>
