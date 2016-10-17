@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #333333;
-	font-size: 15px;
+	font-size: 14px;
 	background: #fff;
 	border: 1px solid black;
 	min-width: 960px;
@@ -28,19 +28,6 @@ ul {
 	float: left;
 	margin: 0 10px;
 }
-
-ul {
-	list-style: none;
-}
-.album ul li {
-	width: 620;
-	margin: 0 10px;
-}
-
-ul {
-	list-style: none;
-}
-
 .col {
 	display: inline-block;
 }
@@ -56,37 +43,26 @@ ul {
 }
 .menu {
 	margin: 10px 10px;
-
-}
-.album {
-	margin: 10px 10px;
-}
-.form{
-	margin: 0px 10px;
 }
 
-#section{
+.name {
 	margin: 10px 10px;
-}	
-#section2{
-	margin: 10px 10px;
-}
-.select{
-	margin: 10px 0px;
 }
 
-.select2{
-	margin: 10px 0px;
+.music{
+	margin: 10px 10px;
+	
 }
-.name{
+.comments{
 	margin: 10px 10px;
 }
-.id{
+.reviewList{
 	margin: 10px 10px;
 }
-.go{
+.words{
 	margin: 10px 10px;
 }
 #footer{
 	margin: 10px 10px;
+}
 }

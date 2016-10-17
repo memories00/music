@@ -80,7 +80,7 @@
 										<div class="picture">	
 											<img src="/music/image/artist.jpg">
 										</div>
-									</div>		
+									</div>			
 									<div class="col">
 										<ul>
 											<li>이름</li>
@@ -88,14 +88,18 @@
 											<li>연대</li>
 											<li>데뷔</li>
 										</ul>												
-									</div>		
+									</div>
 								</div>
+							</div>	
+						</div>		
+						<div class="col">
+							<div class="artist">
 								<div class="row">
 									<div class="col">
 										<div class="picture">	
 											<img src="/music/image/artist.jpg">
 										</div>
-									</div>		
+									</div>			
 									<div class="col">
 										<ul>
 											<li>이름</li>
@@ -103,14 +107,18 @@
 											<li>연대</li>
 											<li>데뷔</li>
 										</ul>												
-									</div>		
+									</div>
 								</div>
+							</div>	
+						</div>					
+						<div class="col">
+							<div class="artist">
 								<div class="row">
 									<div class="col">
 										<div class="picture">	
 											<img src="/music/image/artist.jpg">
 										</div>
-									</div>		
+									</div>			
 									<div class="col">
 										<ul>
 											<li>이름</li>
@@ -118,14 +126,18 @@
 											<li>연대</li>
 											<li>데뷔</li>
 										</ul>												
-									</div>		
+									</div>
 								</div>
+							</div>
+						</div>		
+						<div class="col">
+							<div class="artist">
 								<div class="row">
 									<div class="col">
 										<div class="picture">	
 											<img src="/music/image/artist.jpg">
 										</div>
-									</div>		
+									</div>			
 									<div class="col">
 										<ul>
 											<li>이름</li>
@@ -133,12 +145,12 @@
 											<li>연대</li>
 											<li>데뷔</li>
 										</ul>												
-									</div>		
-								</div>									
-							</div>		
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
-				</div>			
+				</div>q				
 			</section>
 			<section id="section3">
 				<div class="container">
@@ -344,133 +356,118 @@
 							<div class="col">
 								<div class="words">
 									<img src="/music/image/words.jpg">
-										제목 <!-- 제목 재생 -->
+									제목 <!-- 제목 재생 -->
 								</div>
 							</div>	
 							<div class="col">
-								<div class="link">
-									<ul>
-										<li><a href="">가사</a></li>
-										<li><a href="">아티스트</a></li>
-									</ul>
-								</div>	
+								<div class="row">
+									<a href="">아티스트</a>
+									<button type="button"> 듣기 </button>
+									<button type="button"> 담기 </button>
+									<button type="button"> 다운 </button>
+								</div>			
+								<div class="row">
+									<a href="">가사</a>	
+								</div>
+							</div>		
+						</div>	
+						<div class="row">
+							<div class="col">
+								<div class="words">
+									<img src="/music/image/words.jpg">
+									제목 <!-- 제목 재생 -->
+								</div>
 							</div>	
 							<div class="col">
-								<button type="button"> 듣기 </button>
-								<button type="button"> 담기 </button>
-								<button type="button"> 다운 </button>									
+								<div class="row">
+									<a href="">아티스트</a>
+									<button type="button"> 듣기 </button>
+									<button type="button"> 담기 </button>
+									<button type="button"> 다운 </button>
+								</div>			
+								<div class="row">
+									<a href="">가사</a>	
+								</div>
+							</div>		
+						</div>	
+						<div class="row">
+							<div class="col">
+								<div class="words">
+									<img src="/music/image/words.jpg">
+									제목 <!-- 제목 재생 -->
+								</div>
 							</div>	
+							<div class="col">
+								<div class="row">
+									<a href="">아티스트</a>
+									<button type="button"> 듣기 </button>
+									<button type="button"> 담기 </button>
+									<button type="button"> 다운 </button>
+								</div>			
+								<div class="row">
+									<a href="">가사</a>	
+								</div>
+							</div>		
+						</div>	
+						<div class="row">
+							<div class="col">
+								<div class="words">
+									<img src="/music/image/words.jpg">
+									제목 <!-- 제목 재생 -->
+								</div>
+							</div>
+							<div class="col">
+								<div class="row">
+									<a href="">아티스트</a>
+									<button type="button"> 듣기 </button>
+									<button type="button"> 담기 </button>
+									<button type="button"> 다운 </button>
+								</div>			
+								<div class="row">
+									<a href="">가사</a>	
+								</div>
+							</div>		
+						</div>	
+						<div class="row">
+							<div class="col">
+								<div class="words">
+									<img src="/music/image/words.jpg">
+									제목 <!-- 제목 재생 -->
+								</div>
+							</div>
+							<div class="col">
+								<div class="row">
+									<a href="">아티스트</a>
+									<button type="button"> 듣기 </button>
+									<button type="button"> 담기 </button>
+									<button type="button"> 다운 </button>
+								</div>			
+								<div class="row">
+									<a href="">가사</a>	
+								</div>
+							</div>		
+						</div>	
+						<div class="row">
+							<div class="col">
+								<div class="words">
+									<img src="/music/image/words.jpg">
+									제목 <!-- 제목 재생 -->
+								</div>
+							</div>
+							<div class="col">
+								<div class="row">
+									<a href="">아티스트</a>
+									<button type="button"> 듣기 </button>
+									<button type="button"> 담기 </button>
+									<button type="button"> 다운 </button>
+								</div>			
+								<div class="row">
+									<a href="">가사</a>	
+								</div>
+							</div>		
 						</div>
-						<div class="row">
-							<div class="col">
-								<div class="words">
-									<img src="/music/image/words.jpg">
-										제목 <!-- 제목 재생 -->
-								</div>
-							</div>	
-							<div class="col">
-								<div class="link">
-									<ul>
-										<li><a href="">가사</a></li>
-										<li><a href="">아티스트</a></li>
-									</ul>
-								</div>	
-							</div>	
-							<div class="col">
-								<button type="button"> 듣기 </button>
-								<button type="button"> 담기 </button>
-								<button type="button"> 다운 </button>									
-							</div>	
-						</div>
-						<div class="row">
-							<div class="col">
-								<div class="words">
-									<img src="/music/image/words.jpg">
-										제목 <!-- 제목 재생 -->
-								</div>
-							</div>	
-							<div class="col">
-								<div class="link">
-									<ul>
-										<li><a href="">가사</a></li>
-										<li><a href="">아티스트</a></li>
-									</ul>
-								</div>	
-							</div>	
-							<div class="col">
-								<button type="button"> 듣기 </button>
-								<button type="button"> 담기 </button>
-								<button type="button"> 다운 </button>									
-							</div>	
-						</div>		
-						<div class="row">
-							<div class="col">
-								<div class="words">
-									<img src="/music/image/words.jpg">
-										제목 <!-- 제목 재생 -->
-								</div>
-							</div>	
-							<div class="col">
-								<div class="link">
-									<ul>
-										<li><a href="">가사</a></li>
-										<li><a href="">아티스트</a></li>
-									</ul>
-								</div>	
-							</div>	
-							<div class="col">
-								<button type="button"> 듣기 </button>
-								<button type="button"> 담기 </button>
-								<button type="button"> 다운 </button>									
-							</div>	
-						</div>		
-						<div class="row">
-							<div class="col">
-								<div class="words">
-									<img src="/music/image/words.jpg">
-										제목 <!-- 제목 재생 -->
-								</div>
-							</div>	
-							<div class="col">
-								<div class="link">
-									<ul>
-										<li><a href="">가사</a></li>
-										<li><a href="">아티스트</a></li>
-									</ul>
-								</div>	
-							</div>	
-							<div class="col">
-								<button type="button"> 듣기 </button>
-								<button type="button"> 담기 </button>
-								<button type="button"> 다운 </button>									
-							</div>	
-						</div>						
 					</div>
-				</div>
-			</section>
-			<section id="section7">
-				<div class="container">
-					<div class="row">
-						<div class="col">
-							<div class="contents">
-								<img src="/music/image/contents.jpg">
-								<p>제목</p>
-							</div>
-						</div>
-						<div class="col">
-							<div class="contents">
-								<img src="/music/image/contents.jpg">
-								<p>제목</p>
-							</div>						
-						</div>
-						<div class="col">
-							<div class="contents">
-								<img src="/music/image/contents.jpg">
-								<p>제목</p>
-							</div>
-						</div>
-					</div>	
-				</div>					
+				</div>						
 			</section>		
 			<footer id="footer">
 				<div class="container">

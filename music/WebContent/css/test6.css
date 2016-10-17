@@ -22,15 +22,10 @@ ul {
 	margin: 10px; 10px;
 }
 
-.play2 ul li{
-	display: inline;
-	margin: 10px; 10px;
+.play2{
+	
 }
 .album{
-	text-indent: 10px;
-	margin: 10px; 10px;
-}
-.album1{
 	margin: 10px; 10px;
 }
 .album_art{
@@ -46,7 +41,7 @@ ul {
 	margin: 10px; 10px;
 }
 .select2{
-	margin: 10px; 10px;
+
 }
 .col{
 	display: inline-block;

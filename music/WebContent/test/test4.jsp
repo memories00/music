@@ -193,16 +193,49 @@
 						<div class="col">
 							<div class="comments">
 								<form action="">
-									<textarea name="comments" cols="50" rows="2"> 댓글을 입력해주세요.</textarea>
+									<div class="row">
+										<div class="col">
+											<div class="comments2">
+												<textarea name="comments" cols="50" rows="2"> 댓글을 입력해주세요.</textarea>
+											</div>
+										</div>	
+										<div class="col">
+											<div class="commentsbutton">
+												<button type="button" id="submit" class="commentSubmit">확인</button>	
+											</div>
+										</div>
+									</div>			
 								</form>
 							</div>
-						</div>		
+						</div>	
+					</div>	
+					<div class="row">
 						<div class="col">
-							<div class="commentsbutton">
-								<button type="button">확인</button>
+							<div class="reviewList">
+								<div class="row">
+									<div class="col">
+										<div class="review">
+											리뷰 내용
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col">
+										<div class="review">
+											리뷰 내용
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col">
+										<div class="review">
+											리뷰 내용
+										</div>
+									</div>
+								</div>
 							</div>
-						</div>			
-					</div>
+						</div>
+					</div>		
 				</div>					
 			</section>
 			<footer id="footer">
