@@ -13,12 +13,16 @@
 				<div class="row">
 					<div class="col">
 						<div class="logo">
+							<a href="/"></a>
 							<img src="/music/image/logo.jpg">
 						</div>
 					</div>
 					<div class="col">
 						<div class="search">
-							<img src="/music/image/search.jpg">
+							<form action="">
+								<input type="search" />
+								<input type="submit" name="search" value="search"/>
+							</form>
 						</div>
 					</div>	
 					<div class="col">
