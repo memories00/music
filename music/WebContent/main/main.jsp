@@ -30,7 +30,8 @@
 					</div>	
 					<div class="col">
 						<div class="login">
-							 <img src="/music/image/login.jpg">
+							 <a href="">로그인</a>
+							 <a href="">회원가입</a>
 						</div>
 					</div>
 				</div>
@@ -43,11 +44,11 @@
 					<div class="col">
 						<div class="menu">
 							<ul>
-								<li>메뉴1</li>
-								<li>메뉴2</li>
-								<li>메뉴3</li>
-								<li>메뉴4</li>
-								<li>메뉴5</li>
+								<li><a href="#">차트</a></li>
+								<li><a href="#">최신</a></li>
+								<li><a href="#">장르</a></li>
+								<li><a href="#">뮤직비디오</a></li>
+								<li><a href="#">매거진</a></li>
 							</ul>
 						</div>
 					</div>
@@ -63,60 +64,76 @@
 							<div class="row">
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>	
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="album">
-										<img src="/music/image/album.jpg">
-										<p>앨범 제목</p>
-										<p>가수 이름</p>
+										<a href="">
+											<img src="/music/image/album.jpg">
+										</a>
+										<p><a href="">앨범 제목</a></p>
+										<p><a href="">가수 이름</a></p>
 									</div>
 								</div>
 							</div>
